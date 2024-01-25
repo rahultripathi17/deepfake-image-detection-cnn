@@ -22,3 +22,15 @@
 | **Input** | 256 × 256 RGB images |
 | **Published best approach** | Gabor-enhanced CNN |
 | **Published results** | **95% accuracy · 0.92 precision · 0.95 recall · 0.93 F1-score** |
+
+The study evaluates whether direction- and frequency-aware texture features produced by Gabor filters improve a CNN's ability to identify manipulated facial imagery. The reported metrics above are the published results for the Gabor-enhanced model; they are not measurements inferred from the small demonstration images included in this repository.
+
+## Method
+
+```mermaid
+flowchart LR
+    A[Real and fake images] --> B[Train / validation / test split]
+    B --> C[Resize and normalize]
+    C --> D[Standard CNN]
+    C --> E[Gabor preprocessing]
+    E --> F[Gabor-enhanced CNN]
