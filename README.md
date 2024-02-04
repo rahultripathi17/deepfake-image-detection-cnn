@@ -34,3 +34,15 @@ flowchart LR
     C --> D[Standard CNN]
     C --> E[Gabor preprocessing]
     E --> F[Gabor-enhanced CNN]
+    D --> G[Evaluation]
+    F --> G
+    G --> H[Accuracy · Precision · Recall · F1]
+```
+
+- **Standard CNN:** learns spatial features directly from normalized RGB images through convolution, pooling, and dense layers.
+- **Gabor-enhanced CNN:** applies oriented Gabor responses to emphasize texture and frequency artifacts before classification.
+- **Evaluation:** compares both approaches using classification metrics on held-out data.
+
+## Repository layout
+
+```text
