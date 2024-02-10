@@ -46,3 +46,15 @@ flowchart LR
 ## Repository layout
 
 ```text
+deepfake-image-detection-cnn/
+├── notebooks/
+│   ├── 01_gabor_preprocessing.ipynb
+│   ├── 02_standard_cnn_training.ipynb
+│   ├── 03_standard_cnn_evaluation.ipynb
+│   └── 04_gabor_cnn.ipynb
+├── assets/
+│   └── test-images/
+├── CITATION.cff
+├── requirements.txt
+└── README.md
+```
