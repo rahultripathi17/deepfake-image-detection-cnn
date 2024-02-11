@@ -58,3 +58,15 @@ deepfake-image-detection-cnn/
 ├── requirements.txt
 └── README.md
 ```
+
+| Notebook | Purpose |
+|---|---|
+| `01_gabor_preprocessing.ipynb` | Generate Gabor-filter representations from source images |
+| `02_standard_cnn_training.ipynb` | Define and train the baseline CNN |
+| `03_standard_cnn_evaluation.ipynb` | Load the standard model and inspect predictions |
+| `04_gabor_cnn.ipynb` | Train and evaluate the Gabor-enhanced CNN |
+
+## Run the notebooks
+
+```bash
+git clone https://github.com/rahultripathi17/deepfake-image-detection-cnn.git
