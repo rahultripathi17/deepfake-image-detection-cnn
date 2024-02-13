@@ -70,3 +70,15 @@ deepfake-image-detection-cnn/
 
 ```bash
 git clone https://github.com/rahultripathi17/deepfake-image-detection-cnn.git
+cd deepfake-image-detection-cnn
+
+python -m venv .venv
+# Windows: .venv\Scripts\activate
+# macOS/Linux: source .venv/bin/activate
+
+python -m pip install --upgrade pip
+pip install -r requirements.txt
+jupyter lab
+```
+
+Use a dataset layout equivalent to:
