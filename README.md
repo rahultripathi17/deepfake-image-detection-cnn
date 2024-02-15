@@ -82,3 +82,15 @@ jupyter lab
 ```
 
 Use a dataset layout equivalent to:
+
+```text
+Dataset/
+├── Train/
+│   ├── Real/
+│   └── Fake/
+├── Validation/
+│   ├── Real/
+│   └── Fake/
+└── Test/
+    ├── Real/
+    └── Fake/
