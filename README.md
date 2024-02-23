@@ -94,3 +94,15 @@ Dataset/
 └── Test/
     ├── Real/
     └── Fake/
+```
+
+> [!IMPORTANT]
+> The dataset and trained model weights are not distributed in this repository. Some notebooks retain their original Google Colab or Kaggle paths for research traceability; update those paths for your environment before running them.
+
+## Project timeline
+
+- **31 March 2024:** source notebooks and initial documentation committed publicly.
+- **2024:** comparative CNN and Gabor-CNN experiments developed and evaluated.
+- **3 May 2025:** peer-reviewed Springer chapter published online.
+- **27 August 2025:** publication DOI added to the repository.
+- **30 August 2026:** repository structure, reproducibility notes, and research documentation refreshed.
