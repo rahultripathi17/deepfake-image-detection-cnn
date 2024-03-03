@@ -106,3 +106,15 @@ Dataset/
 - **3 May 2025:** peer-reviewed Springer chapter published online.
 - **27 August 2025:** publication DOI added to the repository.
 - **30 August 2026:** repository structure, reproducibility notes, and research documentation refreshed.
+
+## Scope, limitations & responsible use
+
+- This work studies **static images**, not video or audio deepfakes.
+- Performance is tied to the research dataset and evaluation protocol; it should not be interpreted as universal real-world accuracy.
+- Dataset shifts, compression, unseen generators, and adversarial manipulation can reduce detector performance.
+- Detection output should support—not replace—human review and broader media-forensics evidence.
+- Use the work for research, education, and defensive analysis; do not use it to create deceptive or harmful media.
+
+## Authors
+
+Research by **Gouri Morankar, Rahul Tripathi, Shaili Dhanore, and Yash Tiwari**.
