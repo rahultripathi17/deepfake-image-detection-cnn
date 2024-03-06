@@ -118,3 +118,8 @@ Dataset/
 ## Authors
 
 Research by **Gouri Morankar, Rahul Tripathi, Shaili Dhanore, and Yash Tiwari**.
+
+For Rahul Tripathi's engineering work and profile:
+[GitHub](https://github.com/rahultripathi17) ·
+[Portfolio](https://rahul-tripathi.web.app/) ·
+[LinkedIn](https://www.linkedin.com/in/rahultripathi17/)
