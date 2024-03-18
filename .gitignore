@@ -8,3 +8,5 @@ venv/
 .ipynb_checkpoints/
 
 # Local configuration and secrets
+.env
+.env.*
