@@ -10,3 +10,5 @@ venv/
 # Local configuration and secrets
 .env
 .env.*
+
+# Datasets and generated model artifacts
