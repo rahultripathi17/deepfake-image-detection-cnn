@@ -12,3 +12,5 @@ venv/
 .env.*
 
 # Datasets and generated model artifacts
+Dataset/
+data/
