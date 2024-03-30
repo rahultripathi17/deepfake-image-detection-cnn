@@ -14,3 +14,5 @@ venv/
 # Datasets and generated model artifacts
 Dataset/
 data/
+models/
+*.h5
