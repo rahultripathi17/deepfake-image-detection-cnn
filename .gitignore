@@ -18,3 +18,5 @@ models/
 *.h5
 *.keras
 
+# Operating systems
+.DS_Store
