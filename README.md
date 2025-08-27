@@ -4,6 +4,8 @@
 
 ### A comparative static-image forensic pipeline using standard and Gabor-enhanced convolutional neural networks
 
+[![Springer](https://img.shields.io/badge/Springer-LNNS_1262-01324b?style=for-the-badge&logo=springer&logoColor=white)](https://doi.org/10.1007/978-981-96-1981-8_5)
+[![DOI](https://img.shields.io/badge/DOI-10.1007%2F978--981--96--1981--8__5-b31b1b?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1007/978-981-96-1981-8_5)
 [![Python](https://img.shields.io/badge/Python-3.x-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
@@ -98,6 +100,33 @@ Dataset/
 
 > [!IMPORTANT]
 > The dataset and trained model weights are not distributed in this repository. Some notebooks retain their original Google Colab or Kaggle paths for research traceability; update those paths for your environment before running them.
+
+## Published paper
+
+**Deepfake Image Detection Using Convolutional Neural Network**<br />
+Gouri Morankar, Rahul Tripathi, Shaili Dhanore, and Yash Tiwari<br />
+*Smart Computing Paradigms: Advanced Data Mining and Analytics*, Lecture Notes in Networks and Systems, vol. 1262, pp. 51–62, Springer, 2025.
+
+<div align="center">
+
+[![Read on Springer](https://img.shields.io/badge/Read_on-Springer-01324b?style=for-the-badge&logo=springer&logoColor=white)](https://link.springer.com/chapter/10.1007/978-981-96-1981-8_5)
+[![Open DOI](https://img.shields.io/badge/Open-DOI-b31b1b?style=for-the-badge&logo=doi&logoColor=white)](https://doi.org/10.1007/978-981-96-1981-8_5)
+
+</div>
+
+```bibtex
+@incollection{morankar2025deepfake,
+  title     = {Deepfake Image Detection Using Convolutional Neural Network},
+  author    = {Gouri Morankar, Rahul Tripathi, Shaili Dhanore, Yash Tiwari},
+  booktitle = {Smart Computing Paradigms: Advanced Data Mining and Analytics},
+  series    = {Lecture Notes in Networks and Systems},
+  volume    = {1262},
+  pages     = {51--62},
+  publisher = {Springer},
+  year      = {2025},
+  doi       = {10.1007/978-981-96-1981-8_5}
+}
+```
 
 ## Project timeline
 
